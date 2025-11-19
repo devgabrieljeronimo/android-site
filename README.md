@@ -24,7 +24,10 @@
       O tema escolhido foi a história do mascote do Android, onde apresento curiosidades, origem e evolução do famoso robozinho verde. Apesar de ser um site simples e iniciante, faz parte do meu processo de crescimento, e pretendo aprimorar as minhas habilidades conforme estudo mais técnicas modernas de HTML, CSS e design.
     </p>
     <br>
-    <p align="center">
+
+  # Android Site:
+      
+  <p align="center">
     Este repositório representa meu ponto de partida no desenvolvimento web, e cada melhoria futura será registrada aqui no GitHub.
     </p>
   </div>
