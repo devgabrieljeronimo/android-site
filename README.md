@@ -30,9 +30,20 @@
   </div>
 </header>
 <body>
-  <h2>🚀 Technologies used</h2>
+
+## 🚀 Technologies used
+  
   <ul>
     <li>HTML5</li>
     <li>CSS3</li>
   </ul>
+  <h2></h2>
+  
+  1. Clone the repository:
+
+    git clone https://github.com/devgabrieljeronimo/first-spring-aplication.git
+
+  2. Open the project with the VsCode.
+
+  3. Run the project.
 </body>
