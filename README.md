@@ -29,4 +29,10 @@
     </p>
   </div>
 </header>
-
+<body>
+  <h2>🚀 Technologies used</h2>
+  <ul>
+    <li>HTML5</li>
+    <li>CSS3</li>
+  </ul>
+</body>
