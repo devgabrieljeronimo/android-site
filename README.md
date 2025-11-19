@@ -25,7 +25,7 @@
     </p>
     <br>
 
-  # 🔗 Site Link: <a href="">android-site</a>
+  # 🔗 Site Link: <a href="https://devgabrieljeronimo.github.io/android-site/">android-site</a>
       
   <p align="center">
     Este repositório representa meu ponto de partida no desenvolvimento web, e cada melhoria futura será registrada aqui no GitHub.
