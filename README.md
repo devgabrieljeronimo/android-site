@@ -1,6 +1,7 @@
 <!-- Header -->
 
 <header>
+  
   <div align="left">
     <img src="https://img.shields.io/badge/HTML5-red.svg" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-blue.svg" alt="HTML5">
@@ -14,21 +15,20 @@
     <hr>
     <ml>
     <p align="justify">
-      Este é o meu <strong>primeiro projeto</strong> de site, desenvolvido utilizando HTML5 e CSS3.
-      O objetivo principal foi praticar a estruturação de páginas web, semântica, responsividade básica e organização de código enquanto estudo desenvolvimento front-end.
+      This is my <strong>first website project</strong>, developed using HTML5 and CSS3. The main goal was to practice web page structuring, semantics, basic responsiveness, and code organization while studying front-end development.
     </p>
     <p align="justify">
-      Como parte do aprendizado, publiquei este projeto no GitHub Pages para testar o fluxo completo de versionamento com Git, hospedagem estática e documentação.
+      As part of the learning process, I published this project on GitHub Pages to test the full workflow of version control with Git, static hosting, and documentation.
     </p>
     <p align="justify">
-      O tema escolhido foi a história do mascote do Android, onde apresento curiosidades, origem e evolução do famoso robozinho verde. Apesar de ser um site simples e iniciante, faz parte do meu processo de crescimento, e pretendo aprimorar as minhas habilidades conforme estudo mais técnicas modernas de HTML, CSS e design.
+      The chosen theme was the history of the Android mascot, where I present curiosities, origin, and evolution of the famous little green robot. Although it is a simple and beginner website, it is part of my growth process, and I intend to improve my skills as I study more modern HTML, CSS, and design techniques.
     </p>
     <br>
 
   # 🔗 Site Link: <a href="https://devgabrieljeronimo.github.io/android-site/" target="_blank">android-site</a>
       
   <p align="center">
-    Este repositório representa meu ponto de partida no desenvolvimento web, e cada melhoria futura será registrada aqui no GitHub.
+    This repository represents my starting point in web development, and every future improvement will be recorded here on GitHub.
     </p>
   </div>
 </header>
