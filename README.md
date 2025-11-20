@@ -25,7 +25,7 @@
     </p>
     <br>
 
-  # 🔗 Site Link: <a href="https://devgabrieljeronimo.github.io/android-site/">android-site</a>
+  # 🔗 Site Link: <a href="https://devgabrieljeronimo.github.io/android-site/" target="_blank">android-site</a>
       
   <p align="center">
     Este repositório representa meu ponto de partida no desenvolvimento web, e cada melhoria futura será registrada aqui no GitHub.
@@ -52,4 +52,17 @@
   2. Open the project with the VsCode.
 
   3. Run the project.
+
+<br>
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/devgabrieljeronimo/android-site/blob/main/LICENSE) file for details.
+
+<br>
+
+## 🙋‍♂️ Owner
+Gabriel Jeronimo
+
+GitHub: [@devgabrieljeronimo](https://github.com/devgabrieljeronimo)
 </body>
